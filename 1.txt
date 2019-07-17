@@ -1,0 +1,12 @@
+licence=9463C72C87DAD792621B8571F5FB3FBF,337297A88DE1305BA5FCE64FA1730AED
+licence.key=A1075
+
+spring:
+  profiles:
+    active: dev
+swagger:
+  production: false
+  basic:
+    enable: true
+    username: jeecg
+    password: jeecg1314
